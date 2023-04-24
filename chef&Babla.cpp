@@ -33,5 +33,6 @@ int main () {
 
         cout<<mx,abs(mn)-1<<endl;
     }
+    
 
 }
