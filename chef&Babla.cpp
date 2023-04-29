@@ -10,7 +10,7 @@ int main () {
     for(int i=0;i<n;i++) {
         
         cin>>s;
-        
+         
         if(s>=0) {
             a.push_back(s);  
             mx=min(mx,s);
