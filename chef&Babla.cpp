@@ -17,7 +17,7 @@ int main () {
         }
         else {
             b.push_back(s);
-            mn=max(mn,s);
+            mn=max(mn,s); 
         }
     }
     if(mn==0 || mx==0) {
