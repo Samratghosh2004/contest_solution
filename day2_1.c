@@ -7,7 +7,6 @@ int main() {
     printf("Enter :)");
     scanf("%s", string);
     length = strlen(string);
-
     while(string[i] != '\0'){
         length ++;
         i++;
